@@ -283,6 +283,8 @@ footer img {
     /* table  */
     .fixture {
         margin: 0 ;
+        width: 100vw;
+        overflow-x: scroll;
      }
     .fixture table {  
         border-spacing: 0px 15px;
